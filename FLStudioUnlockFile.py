@@ -68,6 +68,7 @@ def main():
 			if Data[SigPos + I] <= 0:
 				Data[SigPos + I] = 0x01
 				break
+			I += 1
 		File.close()
 
 		with open(InputFile, "wb") as File:
