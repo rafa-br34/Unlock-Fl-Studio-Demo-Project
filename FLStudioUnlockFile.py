@@ -5,7 +5,7 @@ import os
 
 #                                                                                  XX Separator 0xC7                                                          
 #                Header 1                                  Header 2                || XX Signature Version
-#                XX XX XX XX XX                            XX XX XX XX             || ||                                                       XX Byte Is Zero
+#                XX XX XX XX XX                            XX XX XX XX             || ||                                                       XX Lock Byte
 # Free Save:     46 4C 68 64 06 00 00 00 00 00 04 00 60 00 46 4C 64 74 65 D3 01 00 C7 0C 32 30 2E 39 2E 32 2E 32 39 36 33 00 9F 93 0B 00 00 1C 00 25 01 C8
 
 # Premium Save4: 46 4C 68 64 06 00 00 00 00 00 2C 00 60 00 46 4C 64 74 D6 60 0C 00 C7 0C 32 30 2E 37 2E 30 2E 31 36 38 39 00 9F 99 06 00 00 1C 01 25 01 C8
